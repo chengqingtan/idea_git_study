@@ -1,9 +1,9 @@
-# IDEA
+# INTELLIJ IDEA
 .idea/
 out/
+*.iws
 *.iml
-*.jar
-*.class
+*.ipr
 # Maven
 log/
 target/
