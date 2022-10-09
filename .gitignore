@@ -1,5 +1,9 @@
-.idea
-out
+# IDEA
+.idea/
+out/
 *.iml
 *.jar
 *.class
+# Maven
+log/
+target/
